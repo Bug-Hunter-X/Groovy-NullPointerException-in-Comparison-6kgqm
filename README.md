@@ -1,0 +1,1 @@
+This example demonstrates a common issue in Groovy where a NullPointerException can occur when comparing values without explicit null checks. The `myMethod` function aims to return the larger of two numbers, but fails when one of the inputs is null. The solution shows how to use the Groovy Elvis operator(?:) to handle null values gracefully.
